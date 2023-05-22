@@ -25,7 +25,7 @@ Using Pinata SDK to upload the JSON Data to IPFS .
 
 ## Demo
 
-![Logo](https://i.ibb.co/mCvXMtZ/Screenshot-2023-05-22-at-3-27-47-PM.png)
+![Logo](https://i.ibb.co/n0Rb2YQ/Screenshot-2023-05-22-at-3-46-46-PM.png)
 
 
 ## Authors
